@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-- 🔭 I’m currently working on JWST imaging and galaxy properties
-- 🌱 I’m currently a PhD student in Department of Astronomy, LSA, University of Michigan
+- 🔭 I’m currently working on JWST spectral analysis and galaxy properties
+- 🌱 I’m currently a PhD student in Department of Astronomy, University of Michigan
 - 👯 I’m looking to collaborate on everything that is interesting in Astronomy
 - 📫 How to reach me: bc.jin137@gmail.com
 
