@@ -26,4 +26,4 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/bcj1n)
 [![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=macos)](https://github.com/bcj1n)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcj1n&stats_format=bytes)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bcj1n&layout=donut)](https://github.com/pranesh-2005/github-readme-stats-fast)
